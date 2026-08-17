@@ -1,0 +1,131 @@
+﻿EnrollID,EnrollDate,StudentName,Country,CourseCategory,CourseName,Price,Rating,CompletionStatus
+ENR0001,2026-05-13,Rohan Roy,UAE,Graphic Design,Illustrator Fundamentals,999,4.1,In Progress
+ENR0002,2026-03-17,Sam Roy,India,Business,Project Management 101,1999,4,In Progress
+ENR0003,2026-07-03,Sara Patel,UAE,Digital Marketing,Content Strategy,1999,4.2,In Progress
+ENR0004,2026-04-22,Rohan Sharma,India,Data Science,SQL Fundamentals,1999,4.5,In Progress
+ENR0005,2026-02-06,Sophia Iyer,India,Digital Marketing,Social Media Marketing,499,3.7,Completed
+ENR0006,2026-05-26,Priya Gupta,USA,Digital Marketing,Google Ads Mastery,1299,4.5,In Progress
+ENR0007,2026-05-27,Karan Nair,UK,Digital Marketing,Content Strategy,499,4.1,Dropped
+ENR0008,2026-01-07,Isha Iyer,Australia,Digital Marketing,Social Media Marketing,499,4.1,Dropped
+ENR0009,2026-06-30,John Khan,Australia,Data Science,SQL Fundamentals,999,3.9,In Progress
+ENR0010,2026-01-19,John Patel,UAE,Web Development,HTML CSS Basics,799,4.2,Completed
+ENR0011,2026-05-21,Fatima Das,UK,Digital Marketing,Google Ads Mastery,499,4.8,Dropped
+ENR0012,2026-02-27,Sneha Khan,Singapore,Web Development,React for Beginners,1999,3.7,In Progress
+ENR0013,2026-05-27,Emily Iyer,Singapore,Data Science,SQL Fundamentals,1999,5,Completed
+ENR0014,2026-03-21,David Iyer,Australia,Business,Excel for Business,499,4.1,In Progress
+ENR0015,2026-03-23,Rahul Iyer,Canada,Business,Excel for Business,799,4.5,In Progress
+ENR0016,2026-04-21,Ahmed Sharma,Singapore,Web Development,JavaScript Essentials,799,3.7,Completed
+ENR0017,2026-03-24,Anjali Singh,Australia,Digital Marketing,Social Media Marketing,799,4.8,Completed
+ENR0018,2026-03-12,Karan Das,Australia,Digital Marketing,Social Media Marketing,1999,4.3,Dropped
+ENR0019,2026-06-18,Sophia Gupta,UK,Web Development,JavaScript Essentials,799,4.8,Dropped
+ENR0020,2026-01-12,Liam Das,UAE,Data Science,Python for Data Analysis,499,3.8,Dropped
+ENR0021,2026-06-10,Fatima Das,UAE,Graphic Design,Photoshop Essentials,1299,4.9,In Progress
+ENR0022,2026-04-27,Rahul Sharma,USA,Web Development,Full Stack Bootcamp,999,4.2,In Progress
+ENR0023,2026-06-05,Karan Singh,Singapore,Graphic Design,Canva for Creators,999,4.6,Dropped
+ENR0024,2026-07-14,Emily Nair,Australia,Digital Marketing,Content Strategy,799,3.7,Completed
+ENR0025,2026-04-26,Anjali Patel,India,Graphic Design,Photoshop Essentials,999,3.6,In Progress
+ENR0026,2026-02-10,Sam Gupta,UAE,Business,Financial Modeling,799,4,Completed
+ENR0027,2026-03-20,Olivia Sharma,India,Graphic Design,Illustrator Fundamentals,1299,4.9,Dropped
+ENR0028,2026-05-30,Emily Sharma,India,Graphic Design,Canva for Creators,799,3.9,Dropped
+ENR0029,2026-01-03,Sneha Verma,USA,Graphic Design,UI Design Basics,1999,4.8,Dropped
+ENR0030,2026-01-12,David Sharma,Australia,Digital Marketing,Content Strategy,999,4.3,In Progress
+ENR0031,2026-04-09,Ahmed Iyer,Singapore,Business,Business Analytics,499,4.3,Dropped
+ENR0032,2026-01-25,David Singh,Singapore,Business,Excel for Business,799,5,Dropped
+ENR0033,2026-06-04,Ahmed Verma,Australia,Digital Marketing,Social Media Marketing,799,3.6,Completed
+ENR0034,2026-05-13,John Patel,Australia,Web Development,React for Beginners,1299,4.8,Completed
+ENR0035,2026-04-11,Sophia Das,Australia,Digital Marketing,Google Ads Mastery,799,4,Dropped
+ENR0036,2026-03-18,Olivia Sharma,UK,Business,Financial Modeling,1999,4,Completed
+ENR0037,2026-06-02,Olivia Das,UAE,Graphic Design,UI Design Basics,499,4.7,Dropped
+ENR0038,2026-05-30,Olivia Patel,Australia,Business,Project Management 101,499,4.4,Dropped
+ENR0039,2026-01-09,Liam Roy,USA,Graphic Design,Canva for Creators,799,3.5,In Progress
+ENR0040,2026-06-26,Vikram Verma,Australia,Graphic Design,Canva for Creators,1299,4.7,In Progress
+ENR0041,2026-02-23,Fatima Singh,UAE,Data Science,Intro to Machine Learning,1999,4.2,In Progress
+ENR0042,2026-05-17,Sam Nair,UK,Digital Marketing,Social Media Marketing,1299,4.5,Dropped
+ENR0043,2026-03-05,Rohan Nair,UK,Digital Marketing,Content Strategy,799,3.8,In Progress
+ENR0044,2026-03-23,Olivia Singh,Australia,Digital Marketing,Social Media Marketing,1299,4.9,Dropped
+ENR0045,2026-05-27,Fatima Verma,Canada,Digital Marketing,Google Ads Mastery,499,4.7,Completed
+ENR0046,2026-07-02,Rahul Singh,Canada,Digital Marketing,SEO Fundamentals,999,4.5,Dropped
+ENR0047,2026-05-18,Rohan Nair,UAE,Graphic Design,Canva for Creators,799,3.9,Completed
+ENR0048,2026-01-13,Ahmed Khan,UAE,Business,Project Management 101,799,3.8,Completed
+ENR0049,2026-01-26,Karan Sharma,Australia,Graphic Design,UI Design Basics,1299,5,Completed
+ENR0050,2026-06-16,Vikram Das,UK,Graphic Design,Illustrator Fundamentals,1299,3.9,Completed
+ENR0051,2026-07-09,Priya Patel,Canada,Data Science,Intro to Machine Learning,1999,4.8,Completed
+ENR0052,2026-02-17,Meera Sharma,India,Data Science,Data Visualization with Power BI,1299,3.9,Dropped
+ENR0053,2026-04-27,Fatima Nair,Canada,Data Science,SQL Fundamentals,999,4.8,Completed
+ENR0054,2026-02-19,Sneha Singh,USA,Business,Financial Modeling,999,4.6,Dropped
+ENR0055,2026-07-08,Sam Das,Australia,Digital Marketing,Social Media Marketing,499,4.5,Completed
+ENR0056,2026-05-12,Sam Roy,Canada,Web Development,Full Stack Bootcamp,1299,4.5,Completed
+ENR0057,2026-03-05,Aarav Das,Canada,Web Development,Full Stack Bootcamp,999,3.9,In Progress
+ENR0058,2026-07-05,Liam Sharma,UK,Digital Marketing,Google Ads Mastery,1999,4.5,Dropped
+ENR0059,2026-04-30,Meera Patel,Canada,Web Development,HTML CSS Basics,499,4.5,Dropped
+ENR0060,2026-04-05,Sophia Khan,USA,Digital Marketing,SEO Fundamentals,999,4.9,In Progress
+ENR0061,2026-04-06,Sara Nair,Canada,Web Development,Full Stack Bootcamp,1999,4.6,Dropped
+ENR0062,2026-01-21,Ahmed Iyer,Australia,Web Development,JavaScript Essentials,1999,4.6,Completed
+ENR0063,2026-05-21,Ahmed Khan,Australia,Business,Excel for Business,499,4.3,Completed
+ENR0064,2026-06-24,Vikram Gupta,Canada,Digital Marketing,Content Strategy,499,3.6,Dropped
+ENR0065,2026-02-03,Ahmed Verma,Canada,Graphic Design,Photoshop Essentials,1299,4.3,Dropped
+ENR0066,2026-04-12,Rohan Sharma,UAE,Graphic Design,UI Design Basics,499,3.8,Completed
+ENR0067,2026-06-29,Rahul Nair,India,Data Science,Data Visualization with Power BI,999,4.9,Completed
+ENR0068,2026-04-15,Isha Patel,Singapore,Graphic Design,Photoshop Essentials,999,4.5,Dropped
+ENR0069,2026-04-25,David Verma,India,Graphic Design,UI Design Basics,1299,4.5,Dropped
+ENR0070,2026-01-31,Isha Nair,Canada,Business,Project Management 101,999,4.3,Dropped
+ENR0071,2026-03-18,John Nair,Canada,Web Development,HTML CSS Basics,499,4.3,Completed
+ENR0072,2026-02-09,Rohan Khan,UAE,Web Development,Full Stack Bootcamp,999,4.6,Completed
+ENR0073,2026-02-22,Rahul Roy,Australia,Graphic Design,Photoshop Essentials,799,3.6,Dropped
+ENR0074,2026-04-13,John Khan,Australia,Data Science,Intro to Machine Learning,499,3.8,Completed
+ENR0075,2026-07-07,Liam Singh,Australia,Web Development,React for Beginners,799,4.4,Dropped
+ENR0076,2026-02-06,Ahmed Khan,Canada,Digital Marketing,Social Media Marketing,999,4,Completed
+ENR0077,2026-05-23,Olivia Sharma,UK,Business,Project Management 101,1299,4.9,Dropped
+ENR0078,2026-04-15,Karan Das,Canada,Graphic Design,UI Design Basics,1299,3.8,Dropped
+ENR0079,2026-03-18,Karan Iyer,India,Graphic Design,Canva for Creators,799,4.3,In Progress
+ENR0080,2026-03-04,Rohan Khan,UK,Business,Project Management 101,1299,4.5,In Progress
+ENR0081,2026-07-05,Vikram Sharma,UK,Digital Marketing,SEO Fundamentals,1999,4.1,Dropped
+ENR0082,2026-02-18,Liam Nair,USA,Business,Excel for Business,499,4.2,In Progress
+ENR0083,2026-02-18,Sneha Iyer,USA,Digital Marketing,SEO Fundamentals,799,4.5,Dropped
+ENR0084,2026-05-22,Sam Das,Canada,Web Development,Full Stack Bootcamp,799,4.2,Dropped
+ENR0085,2026-04-03,Ahmed Iyer,Canada,Digital Marketing,Google Ads Mastery,999,3.6,Dropped
+ENR0086,2026-04-05,Sam Verma,India,Graphic Design,UI Design Basics,799,4.3,Completed
+ENR0087,2026-05-22,Liam Gupta,UAE,Web Development,HTML CSS Basics,999,4.1,Completed
+ENR0088,2026-04-08,Liam Khan,Canada,Web Development,React for Beginners,799,4.3,Dropped
+ENR0089,2026-07-05,Olivia Iyer,USA,Digital Marketing,Google Ads Mastery,1299,4.6,In Progress
+ENR0090,2026-05-06,Isha Nair,UAE,Web Development,JavaScript Essentials,1999,4.9,Dropped
+ENR0091,2026-07-15,Aarav Verma,USA,Data Science,Python for Data Analysis,499,4.8,Completed
+ENR0092,2026-02-25,Ahmed Iyer,UK,Data Science,Intro to Machine Learning,499,3.6,Dropped
+ENR0093,2026-01-05,Aarav Nair,Australia,Business,Financial Modeling,1299,4.1,Completed
+ENR0094,2026-03-15,Aarav Nair,Singapore,Business,Business Analytics,1999,4.5,In Progress
+ENR0095,2026-05-15,Karan Khan,USA,Web Development,HTML CSS Basics,499,4.4,In Progress
+ENR0096,2026-01-21,Emily Verma,Canada,Digital Marketing,Google Ads Mastery,1299,4.3,Dropped
+ENR0097,2026-06-17,Priya Roy,Canada,Web Development,React for Beginners,499,4.1,Dropped
+ENR0098,2026-06-29,Isha Roy,Canada,Graphic Design,Photoshop Essentials,499,4.8,Dropped
+ENR0099,2026-01-11,Anjali Khan,Singapore,Digital Marketing,SEO Fundamentals,1999,4.5,Dropped
+ENR0100,2026-01-20,Rohan Nair,Australia,Graphic Design,UI Design Basics,499,4.5,Completed
+ENR0101,2026-05-31,Karan Verma,India,Digital Marketing,SEO Fundamentals,799,3.9,Dropped
+ENR0102,2026-03-26,David Patel,Singapore,Web Development,Full Stack Bootcamp,1999,5,Dropped
+ENR0103,2026-01-26,Sara Khan,Singapore,Data Science,SQL Fundamentals,499,3.6,Dropped
+ENR0104,2026-01-08,Rohan Iyer,Canada,Business,Financial Modeling,999,3.8,Dropped
+ENR0105,2026-06-24,Liam Verma,India,Graphic Design,Illustrator Fundamentals,799,4.7,In Progress
+ENR0106,2026-03-10,Karan Verma,UAE,Web Development,HTML CSS Basics,499,4.7,Completed
+ENR0107,2026-01-28,Rahul Sharma,UK,Graphic Design,UI Design Basics,999,4.2,In Progress
+ENR0108,2026-02-17,Sara Iyer,Australia,Data Science,Intro to Machine Learning,499,4.3,In Progress
+ENR0109,2026-04-01,Fatima Roy,Australia,Data Science,Python for Data Analysis,499,4.4,In Progress
+ENR0110,2026-04-16,David Roy,UAE,Graphic Design,Photoshop Essentials,999,4.9,Completed
+ENR0111,2026-02-13,Karan Das,UK,Business,Project Management 101,1299,3.9,Completed
+ENR0112,2026-03-12,Sara Das,Canada,Data Science,Intro to Machine Learning,1299,4.7,In Progress
+ENR0113,2026-06-02,Sophia Khan,Canada,Digital Marketing,Social Media Marketing,1299,3.7,In Progress
+ENR0114,2026-06-08,David Singh,Canada,Data Science,Data Visualization with Power BI,999,4,Dropped
+ENR0115,2026-03-24,Sophia Khan,Canada,Business,Project Management 101,999,4,In Progress
+ENR0116,2026-05-28,Anjali Singh,Canada,Digital Marketing,Google Ads Mastery,1299,3.9,In Progress
+ENR0117,2026-02-21,Liam Nair,USA,Digital Marketing,SEO Fundamentals,1999,4.5,Dropped
+ENR0118,2026-04-23,Meera Roy,Singapore,Data Science,Data Visualization with Power BI,799,4.8,In Progress
+ENR0119,2026-03-03,Rohan Patel,UAE,Graphic Design,Canva for Creators,999,4.1,In Progress
+ENR0120,2026-05-03,Liam Verma,Australia,Data Science,Data Visualization with Power BI,1999,4.3,Dropped
+ENR0121,2026-06-29,Fatima Gupta,UAE,Graphic Design,Photoshop Essentials,999,4.9,Completed
+ENR0122,2026-06-15,Sophia Sharma,Australia,Web Development,React for Beginners,799,5,Dropped
+ENR0123,2026-01-28,Aarav Roy,UK,Graphic Design,UI Design Basics,1299,3.8,Dropped
+ENR0124,2026-04-06,David Iyer,Singapore,Business,Project Management 101,1299,4.5,Dropped
+ENR0125,2026-01-07,Olivia Roy,UK,Business,Project Management 101,999,4.1,Completed
+ENR0126,2026-03-21,Sam Iyer,Singapore,Data Science,Intro to Machine Learning,999,3.8,In Progress
+ENR0127,2026-04-23,John Singh,India,Digital Marketing,Content Strategy,499,4,Dropped
+ENR0128,2026-06-15,Sneha Patel,UAE,Data Science,Python for Data Analysis,999,3.9,Completed
+ENR0129,2026-05-24,Sara Iyer,USA,Business,Project Management 101,999,4.7,Dropped
+ENR0130,2026-04-12,Aarav Gupta,USA,Web Development,JavaScript Essentials,1299,4.2,In Progress
