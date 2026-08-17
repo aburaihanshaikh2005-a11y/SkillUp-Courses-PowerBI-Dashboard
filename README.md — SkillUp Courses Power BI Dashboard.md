@@ -195,23 +195,36 @@ Some of the major insights identified from the dashboard include:
 
 ## 🖼️ Dashboard Preview
 
-><img width="1314" height="739" alt="Screenshot 2026-08-18 005431" src="https://github.com/user-attachments/assets/72cf449d-107d-42e8-a5bb-e7a4cf2abb00" />
+<img width="1312" height="735" alt="image" src="https://github.com/user-attachments/assets/41994ce8-c917-4d8d-81d0-148ee18b9d22" />
+
 
 
 ### Dashboard Overview
 
+The Online Course Analytics Dashboard is an interactive Business Intelligence dashboard developed using Microsoft Power BI to analyze online course enrollment data.The dashboard features multiple interactive charts, including Monthly Student Enrollment Trend, Revenue by Course Category, Revenue by Course Name, Student Distribution by Country, Completion Status Analysis, and Average Rating by Course Category. These visualizations help identify enrollment patterns, profitable course categories, learner satisfaction, and the geographical reach of the online learning platform.
 
+
+Interactive slicers for Date, Country, Course Name, Course Category, and Completion Status allow users to filter data dynamically, while the Clear Filter button instantly resets all applied filters. The dashboard also includes a Light/Dark Theme Toggle, last updated information, KPI cards, icons, and insight cards to enhance usability and improve the overall user experience.
+
+Overall, the dashboard transforms raw enrollment data into meaningful and actionable insights, enabling educational institutions and online learning platforms to make informed decisions regarding course offerings, student engagement, and business performance. It demonstrates the effective use of Power BI, Power Query, DAX, and interactive data visualization techniques to create a professional, user-friendly, and data-driven reporting solution.
 
 ### Enrollment Analysis
+The enrollment analysis provides an overview of student participation across different months and courses. The dashboard records 130 total students from 7 different countries. The monthly enrollment trend shows variations in student registrations, with the highest enrollment occurring during the earlier months and a noticeable decline toward July. This analysis helps identify enrollment trends and understand changes in student interest over time.
 
-
+The course-level analysis also shows that Web Development is one of the most popular course categories, indicating strong learner interest in technical and development-oriented courses.
 
 ### Revenue Analysis
+The revenue analysis focuses on the financial performance of different course categories and individual courses. The dashboard generates approximately 138K in total revenue.
 
+Among the course categories, Digital Marketing generates the highest revenue, followed by Graphic Design, Web Development, Business, and Data Science. At the individual course level, Project Management is the highest revenue-generating course, followed by UI Design Basics, Google Ads Mastery, Social Media Marketing, SEO Fundamentals, and Full Stack Bootcamp.
+
+These insights help identify the most profitable course categories and individual courses, supporting better pricing, promotion, and course investment decisions.
 
 
 ### Completion Analysis
+The completion analysis evaluates student progress across different completion statuses. Students are divided into Completed, In Progress, and Dropped categories.
 
+The dashboard shows a completion rate of approximately 29%, indicating that there is an opportunity to improve learner retention and course completion. Monitoring students who are still in progress and identifying reasons for drop-offs can help the platform introduce better engagement strategies, reminders, learning support, and personalized recommendations.
 
 
 ---
