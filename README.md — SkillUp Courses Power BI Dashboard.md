@@ -195,7 +195,8 @@ Some of the major insights identified from the dashboard include:
 
 ## 🖼️ Dashboard Preview
 
->
+><img width="1314" height="739" alt="Screenshot 2026-08-18 005431" src="https://github.com/user-attachments/assets/72cf449d-107d-42e8-a5bb-e7a4cf2abb00" />
+
 
 ### Dashboard Overview
 
