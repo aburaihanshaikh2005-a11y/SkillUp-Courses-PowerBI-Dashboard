@@ -233,17 +233,15 @@ The dashboard shows a completion rate of approximately 29%, indicating that ther
 
 ```text
 SkillUp-Courses-PowerBI-Dashboard/
-│
-├── README.md
-│
 ├── Dashboard/
-│   └── SkillUp_Courses_Dashboard.pbix
-│
+│   └── Project_Power_BI.pbix
 ├── Dataset/
-│   └── OnlineCourses.xlsx
-│
+│   └── OnlineCourses1.csv
 ├── Documentation/
 │   └── Project_Report.pdf
+├── Demo_DashboardPreview.md
+└── README.md
+
 ```
 
 ---
